@@ -6,4 +6,4 @@ Select prefab or mesh in project or game object in Heriarhy see result in editor
 
 Show count for childrens and show hiden and nonhiden meeshes.
 
-https://i.gyazo.com/5ee36ec01c7ffc9e54b71540f72f235d.png
+![alt text](https://i.gyazo.com/5ee36ec01c7ffc9e54b71540f72f235d.png)
